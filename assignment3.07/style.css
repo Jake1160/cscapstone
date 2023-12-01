@@ -1,0 +1,26 @@
+body {
+    background-color:green;
+   
+}
+
+.navbar-brand {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.dropdown-item {
+    background-color:aqua;
+}
+
+.container-fluid { 
+    background-color: cadetblue;
+}
+
+#funfacts {
+    border: 2px solid black;
+}
+#about {
+    border: 2px solid black;
+}
+#button{
+    background-color: rgb(148, 247, 0);
+}
